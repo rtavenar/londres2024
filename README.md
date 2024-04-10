@@ -28,4 +28,5 @@
   * Hyde Park
   * Notting Hill & Kensington
 * 1er mai matin (avec les bagages)
-  * Balade sur les traces de Harry Potter (**à réserver**)
+  * Balade sur les traces de Harry Potter (**à réserver ?**)
+    * Dont le quai 9 3/4 à la gare de King's Cross (**à réserver**)
