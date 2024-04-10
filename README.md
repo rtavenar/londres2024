@@ -8,7 +8,7 @@
 
 * 26 avril aprèm : tour en bus
 * Jour 1
-  * Tower of London (**à réserver**)
+  * Tower of London ? (**à réserver**)
   * Tower Bridge
   * The Shard ? (**à réserver**)
   * St Paul's Cathedral
