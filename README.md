@@ -3,7 +3,7 @@
 ## Dates
 
 * Vendredi 26 avril (13h30) au mercredi 1er mai (16h30)
-
+ * Visitor Oyster Card à acheter dans l'Eurostar (et valider le Young truc pour Camille et Chloé à une station de métro pour avoir demi tarif)
 * GoCity : un pass qui comprend Tower of London, The Shard
 
 ## Journées
