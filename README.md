@@ -4,27 +4,29 @@
 
 * Vendredi 26 avril (13h30) au mercredi 1er mai (16h30)
 
+* GoCity : un pass qui comprend Tower of London, The Shard
+
 ## Journées
 
 * 26 avril aprèm : tour en bus
 * Jour 1
   * Tower of London ? (**à réserver**)
   * Tower Bridge
-  * The Shard ? (**à réserver**)
+  * The Shard ? (**à réserver** <https://tickets.theviewfromtheshard.com/> : places dispos tous les jours)
   * St Paul's Cathedral
-  * Tate Modern (**à réserver**)
+  * Tate Modern (<https://www.tate.org.uk/visit/private-tours-at-tate> gratuit, sans réserver, **à réserver** si on veut une visite guidée, tous les jours 10-18h)
 * Jour 2
-  * British Museum (**à réserver**) (+ Soho ?)
+  * British Museum (**à réserver** <https://www.britishmuseum.org/visit>, entrée tous les jours 10-15h30, souvent les premiers créneaux sont pleins) (+ Soho ?)
   * Brick Lane & le street art
 * Jour 3
   * Covent Garden
-  * Transport Museum (**à réserver**)
+  * Transport Museum (**à réserver**, gratuit pour les -17, entrée 10-17h tous les jours <https://bookings.ltmuseum.co.uk/museum/events>)
   * Picadilly Circus
   * Parade des gardes à St James
   * Buckingham Palace
   * Big Ben & House of Parliament
 * Jour 4
-  * Natural History Museum (**à réserver**)
+  * Natural History Museum (**à réserver**, gratuit ouvert tous les jours, entrée 1à-17h30 <https://www.nhm.ac.uk/visit.html>)
   * Hyde Park
   * Notting Hill & Kensington
 * 1er mai matin (avec les bagages)
