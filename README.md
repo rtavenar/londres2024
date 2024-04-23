@@ -15,8 +15,8 @@
   * The Shard ? (**à réserver** <https://tickets.theviewfromtheshard.com/> : places dispos tous les jours)
   * St Paul's Cathedral
   * Tate Modern (<https://www.tate.org.uk/visit/private-tours-at-tate> gratuit, sans réserver, **à réserver** si on veut une visite guidée, tous les jours 10-18h)
-* Jour 2
-  * British Museum (**à réserver** <https://www.britishmuseum.org/visit>, entrée tous les jours 10-15h30, souvent les premiers créneaux sont pleins) (+ Soho ?)
+* Dimanche 28 avril
+  * British Museum (**réservé pour 11h20** <https://www.britishmuseum.org/visit>)
   * Brick Lane & le street art
 * Jour 3
   * Covent Garden
