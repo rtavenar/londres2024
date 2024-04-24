@@ -22,6 +22,7 @@
   * Covent Garden
   * Transport Museum (**à réserver**, gratuit pour les -17, entrée 10-17h tous les jours <https://bookings.ltmuseum.co.uk/museum/events>)
   * Picadilly Circus
+  * Trafalgar square
   * Parade des gardes à St James
   * Buckingham Palace
   * Big Ben & House of Parliament
