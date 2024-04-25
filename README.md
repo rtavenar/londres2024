@@ -4,6 +4,7 @@
 
 * Vendredi 26 avril (13h30) au mercredi 1er mai (16h30)
  * Visitor Oyster Card à acheter dans l'Eurostar (et valider le Young truc pour Camille et Chloé à une station de métro pour avoir demi tarif)
+   * Remboursement du solde restant (hors coût fixe de 5 livres de la carte : https://tfl.gov.uk/fares/refunds-and-replacements/visitor-oyster-credit-no-longer-needed)
 * GoCity : un pass qui comprend Tower of London, The Shard
 
 ## Journées
