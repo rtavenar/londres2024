@@ -15,6 +15,7 @@
   * Tower Bridge
   * The Shard ? (**à réserver** <https://tickets.theviewfromtheshard.com/> : places dispos tous les jours)
   * St Paul's Cathedral
+    * choral evensong service à 17h https://www.stpauls.co.uk/attending-st-pauls-service 
   * Tate Modern (<https://www.tate.org.uk/visit/private-tours-at-tate> gratuit, sans réserver, **à réserver** si on veut une visite guidée, tous les jours 10-18h)
 * Dimanche 28 avril
   * British Museum (**réservé pour 11h20** <https://www.britishmuseum.org/visit>)
