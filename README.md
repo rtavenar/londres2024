@@ -7,7 +7,7 @@
    * Remboursement du solde restant (hors coût fixe de 5 livres de la carte) : https://tfl.gov.uk/fares/refunds-and-replacements/visitor-oyster-credit-no-longer-needed
 * GoCity : un pass qui comprend Tower of London, The Shard
 
- ! [](https://www.thamesclippers.com/media/y4zhrvfc/route-map-key-300720.jpg?anchor=center&mode=crop&width=960&height=0&format=webp&quality=70&rnd=133561194327800000) 
+ ![] (https://www.thamesclippers.com/media/y4zhrvfc/route-map-key-300720.jpg?anchor=center&mode=crop&width=960&height=0&format=webp&quality=70&rnd=133561194327800000) 
 
 ## Journées
 
